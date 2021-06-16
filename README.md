@@ -1,5 +1,7 @@
 # L2E-JSONPowerDB
 
+![2](https://user-images.githubusercontent.com/60655862/122268834-2ef6bc80-cefa-11eb-990f-76e4f7dde6c2.JPG)
+![1](https://user-images.githubusercontent.com/60655862/122268916-49309a80-cefa-11eb-8eb0-5e9247a25b39.JPG)
 
 This is a Mini Project which aims to functioning of JSONDB
 
